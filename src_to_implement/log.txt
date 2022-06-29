@@ -1,0 +1,4 @@
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset using Dropout, we achieve an accuracy of: 66.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
