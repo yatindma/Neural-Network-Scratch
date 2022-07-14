@@ -48,7 +48,6 @@ class Conv(BaseLayer):
         self.input_size = None
         self.input_pad_size = None
 
-
     def forward(self, input_tensor):
         self.input_size = input_tensor.shape
         self.input_tensor = input_tensor
